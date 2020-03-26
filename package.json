@@ -1,12 +1,12 @@
 {
   "name": "react",
   "description": "A React compatibility layer for Preact",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/preact-compat/react",
   "bugs": "https://github.com/developit/preact-compat/issues",
   "license": "UNLICENSE",
   "main": "index.js",
   "peerDependencies": {
-    "preact-compat": "*"
+    "preact": ">=10"
   }
 }
