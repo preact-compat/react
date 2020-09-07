@@ -1,7 +1,7 @@
 {
   "name": "react",
   "description": "A React compatibility layer for Preact",
-  "version": "1.0.0",
+  "version": "16.13.0",
   "homepage": "https://github.com/preact/compat",
   "bugs": "https://github.com/developit/preact/issues",
   "license": "MIT",
